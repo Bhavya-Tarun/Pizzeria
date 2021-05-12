@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    background: url(download.jpg);
+}
+button{
+    background-color:yellow;
+}
+input{
+    background-color: wheat;
+}
+h4{
+    background-color: peachpuff;
+}
+#real_menu{
+    background-color:orange;
+}
+h1{
+    background-color: pink;
+}
+#gh{
+    background-color: seagreen;
+}
+
